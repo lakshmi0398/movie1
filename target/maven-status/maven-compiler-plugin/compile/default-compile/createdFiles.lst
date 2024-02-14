@@ -1,0 +1,4 @@
+com/example/movie/MovieApplication.class
+com/example/movie/MovieRepository.class
+com/example/movie/MovieController.class
+com/example/movie/MovieService.class
